@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/selenium-java-client-driver-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/webdrivermanager-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-examples-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-excelant-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-javadoc-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-ooxml-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-ooxml-full-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-ooxml-lite-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/poi-scratchpad-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/ooxml-lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/ooxml-lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/ooxml-lib/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/ooxml-lib/xmlbeans-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/lib/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/bcpkix-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/bcprov-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/bcutil-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/fontbox-2.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/graphics2d-0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/pdfbox-2.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Apache POI JARS/auxiliary/xmlsec-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JARS/sikulixide-2.0.5-win.jar"/>
+	<classpathentry kind="var" path="JRE_SRC"/>
+	<classpathentry kind="var" path="JRE_LIB"/>
+	<classpathentry kind="lib" path="C:/Selenium/Ashot and Gson JARS/ashot-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Ashot and Gson JARS/gson-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Ashot and Gson JARS/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Zxing JARS/core-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Zxing JARS/javase-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JDBC JARS/ojdbc7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

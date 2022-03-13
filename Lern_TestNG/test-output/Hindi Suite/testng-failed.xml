@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Hindi Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="password" value="Selenium@123"/>
+    <parameter name="emailid" value="seleniumpanda@rediffmail.com"/>
+    <parameter name="url" value="https://www.rediff.com/"/>
+    <classes>
+      <class name="Basic_TestNG.Parameterization_using_XML">
+        <methods>
+          <include name="Rediff" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Basic_TestNG.Parameterization_using_XML -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Hindi Suite] -->

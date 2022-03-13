@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-09T11:32:45 IST" name="Default suite" finished-at="2022-03-09T11:32:56 IST" duration-ms="11229">
+    <groups>
+    </groups>
+    <test started-at="2022-03-09T11:32:45 IST" name="Default test" finished-at="2022-03-09T11:32:56 IST" duration-ms="11229">
+      <class name="Basic_TestNG.dependsOnMethod">
+        <test-method is-config="true" signature="Start()[pri:0, instance:Basic_TestNG.dependsOnMethod@206a70ef]" started-at="2022-03-09T11:32:45 IST" name="Start" finished-at="2022-03-09T11:32:51 IST" duration-ms="6192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="LoadingPage()[pri:1, instance:Basic_TestNG.dependsOnMethod@206a70ef]" started-at="2022-03-09T11:32:51 IST" name="LoadingPage" finished-at="2022-03-09T11:32:51 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadingPage -->
+        <test-method signature="Calculator()[pri:2, instance:Basic_TestNG.dependsOnMethod@206a70ef]" started-at="2022-03-09T11:32:51 IST" name="Calculator" finished-at="2022-03-09T11:32:55 IST" depends-on-methods="Basic_TestNG.dependsOnMethod.LoadingPage" duration-ms="4036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calculator -->
+        <test-method signature="NewCar()[pri:3, instance:Basic_TestNG.dependsOnMethod@206a70ef]" started-at="2022-03-09T11:32:55 IST" name="NewCar" finished-at="2022-03-09T11:32:55 IST" depends-on-methods="Basic_TestNG.dependsOnMethod.Calculator, Basic_TestNG.dependsOnMethod.LoadingPage" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewCar -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Basic_TestNG.dependsOnMethod@206a70ef]" started-at="2022-03-09T11:32:55 IST" name="TearDown" finished-at="2022-03-09T11:32:56 IST" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Basic_TestNG.dependsOnMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
